@@ -1,15 +1,11 @@
-import img from "../assets/images/img.jpg";
 import img1 from "../assets/images/img1.jpg";
 import img2 from "../assets/images/img2.jpg";
+import img from "../assets/images/img.jpg";
 import img3 from "../assets/images/img3.jpg";
 import img4 from "../assets/images/img4.jpg";
 import img5 from "../assets/images/img5.jpg";
 
 export const story = [
-  {
-    image: img,
-    text: "Helloo SweetHeart",
-  },
   {
     image: img1,
     text: "Hiiii Akkii Hope you are doing well, Just wanted to tell you somethingggg...",
@@ -17,6 +13,10 @@ export const story = [
   {
     image: img2,
     text: "Do you remember this picture? Our first picture that we took together the day I would never ever forget, The day i fell more in love with you✨",
+  },
+  {
+    image: img,
+    text: "The first Ever photo that I took of you this photo holds special place in my heart, whenever I look at this picture my love for you grows stronger you are the best thing ever happened in my life",
   },
   {
     image: img3,
