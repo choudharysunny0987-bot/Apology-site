@@ -30,7 +30,7 @@ const FinalScreen = ({ onReplay }) => {
         </h1>
 
         <p className="text-2xl text-rose-600 mb-10">
-          Ab bas happiness for you🎉❤️
+          Ab bas sirf pyar aur khushiyan apke liye🎉❤️
         </p>
 
         {/* Replay */}
