@@ -15,7 +15,7 @@ export const story = [
   },
   {
     image: img3,
-    text: "Our first couple photo at mkt another best day of my life when I emjoyed the views of the cafe clicked pictures made memories with you... 🥺",
+    text: "Our first couple photo at mkt another best day of my life when we enjoyed the views of the cafe together & clicked pictures made memories... 🥺",
   },
   {
     image: img4,
