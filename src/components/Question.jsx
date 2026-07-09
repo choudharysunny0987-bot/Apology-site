@@ -103,7 +103,7 @@ const Question = ({ onYes }) => {
       <div className="relative bg-white/90 backdrop-blur-xl rounded-[3rem] p-14 shadow-2xl text-center max-w-xl w-full">
 
         <h2 className="text-4xl font-semibold text-gray-700 mb-14">
-          Kya ab tumhari narazagi kahatm ho gyii? 🥺
+          Maaf krdoo na bache ab mai kbhi ni krungaaa pkkaaa? 🥺
         </h2>
 
         {/* Button Area */}
@@ -114,7 +114,7 @@ const Question = ({ onYes }) => {
             onClick={onYes}
             className="px-12 py-4 bg-gradient-to-r from-green-400 to-emerald-500 text-white rounded-full text-2xl font-medium shadow-lg hover:scale-105 transition-all duration-300 z-10"
           >
-            Yes ❤️
+            Ohkay ❤️
           </button>
 
           {/* NO BUTTON — initial side-by-side */}
@@ -123,7 +123,7 @@ const Question = ({ onYes }) => {
               onClick={handleNoClick}
               className="px-12 py-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-full text-2xl font-medium shadow-lg transition-all duration-300"
             >
-              No 😤
+              Nahii 😤
             </button>
           )}
 
@@ -139,7 +139,7 @@ const Question = ({ onYes }) => {
               }}
               className="px-12 py-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-full text-2xl font-medium shadow-lg transition-all duration-300"
             >
-              No 😤
+              Nahii 😤
             </button>
           )}
         </div>
@@ -147,7 +147,7 @@ const Question = ({ onYes }) => {
         {/* Cute message after No disappears */}
         {noClicks >= 5 && (
           <p className="mt-10 text-lg text-gray-500 italic">
-            Ab to sirf ek hi jawab bachta hai… 😌💖
+            Please chor do ab narajgi krdo apne babu ko maaf… 👉👈💖
           </p>
         )}
       </div>
