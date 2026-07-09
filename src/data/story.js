@@ -7,22 +7,22 @@ import img5 from "../assets/images/img5.jpg";
 export const story = [
   {
     image: img1,
-    text: "Hiiii Akkii, Just wanted to tell you somethingggg...",
+    text: "Hiiii Akkii Hope you are doing well, Just wanted to tell you somethingggg...",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that we took ✨",
+    text: "Do you remember this picture? Our first picture that we took together the day I would never ever forget, The day i fell more in love with you✨",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Our first couple photo at mkt another best day of my life when I emjoyed the views of the cafe clicked pictures made memories with you... 🥺",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "Our first day out to Archeological Park, A day full of enjoyymenttt that was the best day When you gave me those heart chocolated we ate together it was the cutest part😍",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "Yeah I understand you are disappointed in me you are angry with me you are hurt because of me, sometimes I do things that angers, hurts you, and I am truly sorry for that. I have realised my mistakes and I have understood What I dont need to repeat So Please forgive me and sort things out, Just like these images, I choose US and I would forever. So maaf kar do akkii ❤️",
   },
 ];
