@@ -27,7 +27,7 @@ const FinalScreen = ({ onReplay }) => {
         {/* Final Message */}
         <h1 className="text-4xl font-semibold text-gray-700 mb-6">
           Thank you yarr mai ab sab thk krdunga aur apko hmesha khush rkhunga thank you akkii
-          Mai kbhi bhi apko hurt ni hone dunga bs kush rhenge hm dono🥹💖
+          Mai kbhi bhi apko hurt ni hone dunga bs kush rkhunga apko chahe uske liye mjhe kuch bhi krna pde babuu I love youuu akkiii🥹💖
         </h1>
 
         <p className="text-2xl text-rose-600 mb-10">
